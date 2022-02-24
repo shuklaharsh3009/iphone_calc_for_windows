@@ -1,2 +1,4 @@
 # iphone_calc_for_windows
-Simple GUI Calculator using Python tkinter  Download code and image to the same directory for desired output
+Simple GUI Calculator which looks like a iphone calculator
+Made using Python tkinter  
+Download code and image to the same directory for desired output
